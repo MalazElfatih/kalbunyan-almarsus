@@ -1,0 +1,51 @@
+body {
+  border: solid brown;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 20;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: ghostwhite;
+}
+.price {
+  font-size: 26px;
+}
+.free {
+  color: gray;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+}
+.description {
+  font-size: 22px;
+  font-family: sans-serif;
+}
+a {
+  font-size: 17px;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+h3 {
+  text-transform: uppercase;
+}
+li {
+  list-style: square;
+}
+button {
+  background-color: black;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+
